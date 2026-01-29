@@ -17,10 +17,10 @@
 <!-- SVG Gradient -->
 <svg width="0" height="0" style="position:absolute">
   <defs>
-    <linearGradient id="accent-gradient">
+    <lineargradient id="accent-gradient">
       <stop offset="0%" stop-color="#ff7b6b" />
       <stop offset="100%" stop-color="#ffb86b" />
-    </linearGradient>
+    </lineargradient>
   </defs>
 </svg>
 
