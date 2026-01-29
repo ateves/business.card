@@ -1,1 +1,54 @@
-# ateves.business.card.io
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
+
+<!-- GSAP -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+
+<!-- SVG Gradient -->
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <linearGradient id="accent-gradient">
+      <stop offset="0%" stop-color="#ff7b6b" />
+      <stop offset="100%" stop-color="#ffb86b" />
+    </linearGradient>
+  </defs>
+</svg>
+
+<div class="bg"></div>
+
+<div class="card">
+  <div class="color-splash"></div>
+
+  <div class="name"><span>Anthony J.</span><span>Teves</span></div>
+  <div class="role">Cloud Engineer & Musician</div>
+
+  <div class="divider"></div>
+  <div class="accent-dot"></div>
+
+  <div class="info">
+    <div class="item">
+      <svg class="icon" viewBox="0 0 24 24">
+        <path d="M4 6h16v12H4z" />
+        <path d="M4 6l8 7 8-7" />
+      </svg>
+      <span><a href="mailto:ateves@protonmail.ch" style="color: orange;">Email ateves@protonmail.ch</a></span>
+    </div>
+    <div class="item">
+      <svg class="icon" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="9" />
+        <path d="M3 12h18" />
+        <path d="M12 3c3 3 3 15 0 18" />
+      </svg>
+      <span><a href="https://www.youtube.com/watch?v=ObehMGs-t8Q" style="color: orange;">Youtube @ateves4340</a></span>
+    </div>
+    <div class="item">
+      <svg class="icon" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="4" />
+        <circle cx="12" cy="12" r="9" />
+      </svg>
+      <span><a href="https://www.instagram.com/arthonyteves" style="color: orange;">Instagram @arthonyteves</a></span>
+    </div>
+  </div>
+
+  <div class="watermark">AJT</div>
+</div>
