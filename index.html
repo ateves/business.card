@@ -46,7 +46,7 @@
         <path d="M4 6h16v12H4z" />
         <path d="M4 6l8 7 8-7" />
       </svg>
-      <span><a href="mailto:ateves@protonmail.ch" style="color: beige;">ateves&commat;protonmail.ch</a></span>
+      <span><a href="https://www.linkedin.com/in/anthony-teves/" style="color: beige;">LinkedIn /anthony-teves</a></span>
     </div>
     <div class="item">
       <svg class="icon" viewBox="0 0 24 24">
