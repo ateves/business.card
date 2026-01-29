@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <!-- Header & CSS -->
 <html>
 
