@@ -1,3 +1,5 @@
+<html>
+
 <head>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -38,7 +40,8 @@
         <path d="M4 6h16v12H4z" />
         <path d="M4 6l8 7 8-7" />
       </svg>
-      <span><a href="mailto:ateves@protonmail.ch" style="color: orange;">Email ateves@protonmail.ch</a></span>
+      <span>
+        <a href="mailto:ateves@protonmail.ch" style="color: orange;">ateves@protonmail.ch</a></span>
     </div>
     <div class="item">
       <svg class="icon" viewBox="0 0 24 24">
@@ -53,9 +56,11 @@
         <circle cx="12" cy="12" r="4" />
         <circle cx="12" cy="12" r="9" />
       </svg>
-      <span><a href="https://www.instagram.com/arthonyteves" style="color: orange;">Instagram @arthonyteves</a></span>
+      <span><a href="https://www.instagram.com/arthonyteves" style="color: orange;">IG @arthonyteves</a></span>
     </div>
   </div>
 
-  <div class="watermark">AJT</div>
+  <div class="watermark">AM</div>
 </div>
+
+</html>
