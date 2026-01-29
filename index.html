@@ -1,14 +1,15 @@
+<!-- Header & CSS -->
 <html>
 
 <head>
   <link href="style.css" rel="stylesheet">
-</head>
 
+</head>
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
 
 <!-- GSAP -->
-<script src="min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 
 <!-- GSAP 2-->
 <script src="main.js"></script>
@@ -28,8 +29,8 @@
 <div class="card">
   <div class="color-splash"></div>
 
-  <div class="name"><span>Anthony J.</span><span>Teves</span></div>
-  <div class="role">Cloud Engineer & Musician</div>
+  <div class="name"><span>Anthony</span><span>Teves</span></div>
+  <div class="role">Cloud engineer & Musician</div>
 
   <div class="divider"></div>
   <div class="accent-dot"></div>
@@ -40,8 +41,7 @@
         <path d="M4 6h16v12H4z" />
         <path d="M4 6l8 7 8-7" />
       </svg>
-      <span>
-        <a href="mailto:ateves@protonmail.ch" style="color: orange;">ateves@protonmail.ch</a></span>
+      <span><a href="mailto:ateves@protonmail.ch" style="color: beige;">ateves&commat;protonmail.ch</a></span>
     </div>
     <div class="item">
       <svg class="icon" viewBox="0 0 24 24">
@@ -49,14 +49,15 @@
         <path d="M3 12h18" />
         <path d="M12 3c3 3 3 15 0 18" />
       </svg>
-      <span><a href="https://www.youtube.com/watch?v=ObehMGs-t8Q" style="color: orange;">Youtube @ateves4340</a></span>
+      <span><a href="https://www.youtube.com/watch?v=ObehMGs-t8Q" style="color: beige;">YouTube &commat;ateves4340</a>
+      </span>
     </div>
     <div class="item">
       <svg class="icon" viewBox="0 0 24 24">
         <circle cx="12" cy="12" r="4" />
         <circle cx="12" cy="12" r="9" />
       </svg>
-      <span><a href="https://www.instagram.com/arthonyteves" style="color: orange;">IG @arthonyteves</a></span>
+      <span><a href="https://www.instagram.com/arthonyteves" style="color: beige;">IG&commat;arthonyteves</a></span>
     </div>
   </div>
 
