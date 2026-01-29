@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", function() {
 /* ENTRY */
 gsap.from(".card", { y: 60, opacity: 0, duration: 1.2, ease: "power4.out" });
 gsap.from(".name span", {
@@ -63,4 +64,6 @@ card.addEventListener("mouseleave", () => {
     duration: 0.8,
     ease: "power4.out"
   });
+});
+  gsap.to(".my-element", { duration: 1, x: 100 });
 });
