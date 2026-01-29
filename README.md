@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
 </head>
 
+<body>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/gsap.min.js"></script>
   
 <!-- GSAP -->
@@ -14,6 +15,7 @@
 
 <!-- GSAP 2 -->
 <script src="main.js"></script>
+</body>
 
 <!-- SVG Gradient -->
 <svg width="0" height="0" style="position:absolute">
