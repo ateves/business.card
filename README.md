@@ -3,16 +3,16 @@
 
 <head>
   <link href="style.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net"></script>
+<!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
 </head>
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
-
+<script src="https://cdn.jsdelivr.net"></script>
+  
 <!-- GSAP -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 
-<!-- GSAP 2-->
+<!-- GSAP 2 -->
 <script src="main.js"></script>
 
 <!-- SVG Gradient -->
